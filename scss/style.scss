@@ -284,6 +284,17 @@ h5,
     }
 }
 
+.navbar-brand {
+    font-weight: 900;
+    font-size: 26px;
+    font-family: $font-primary;
+    line-height: 1;
+    i {
+        font-style: normal;
+        color: $primary;
+    }
+}
+
 .container {
     max-width: 1210px;
 }
