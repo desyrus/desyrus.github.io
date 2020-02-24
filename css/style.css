@@ -1111,7 +1111,7 @@ h5,
 
 .section-title {
     font-size: 3rem;
-    color: #352961;
+    color: #dc3545;
     margin-bottom: 1.8rem;
     font-weight: 900;
     max-width: 450px;
@@ -1153,7 +1153,7 @@ h5,
 
 .image-absolute-box .box {
     position: absolute;
-    background: #352961;
+    background: #dc3545;
     padding: 30px;
     max-width: 300px;
     bottom: -20%;
